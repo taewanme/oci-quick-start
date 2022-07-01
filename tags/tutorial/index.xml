@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorial on Documentation for Hugo Learn Theme</title>
+    <link>/tags/tutorial/</link>
+    <description>Recent content in tutorial on Documentation for Hugo Learn Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OCI 환경 구성</title>
+      <link>/010.oci_env/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/010.oci_env/</guid>
+      <description>_OCI 환경 구성_오라클 클라우드를 사용하기 위해서는 우선 OCI 계정을
+Discover what this Hugo theme is all about and the core-concepts behind it.
+Basics </description>
+    </item>
+    
+    <item>
+      <title>OCI 기초 &amp; 활용</title>
+      <link>/020.oci_basic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/020.oci_basic/</guid>
+      <description>Basics Discover what this Hugo theme is all about and the core-concepts behind it.</description>
+    </item>
+    
+    <item>
+      <title>OCI 데이터저장소</title>
+      <link>/030.oci_store/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030.oci_store/</guid>
+      <description>Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.</description>
+    </item>
+    
+    <item>
+      <title>OCI 클라우드 네이티브</title>
+      <link>/040.cloud_native/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/040.cloud_native/</guid>
+      <description>Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.</description>
+    </item>
+    
+    <item>
+      <title>OCI 데이터 처리</title>
+      <link>/050.data_processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/050.data_processing/</guid>
+      <description>Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.</description>
+    </item>
+    
+    <item>
+      <title>OCI 데이터분석머신러닝</title>
+      <link>/060.data_analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/060.data_analytics/</guid>
+      <description>Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.</description>
+    </item>
+    
+    <item>
+      <title>OCI devops</title>
+      <link>/070.devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/070.devops/</guid>
+      <description>Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.</description>
+    </item>
+    
+  </channel>
+</rss>

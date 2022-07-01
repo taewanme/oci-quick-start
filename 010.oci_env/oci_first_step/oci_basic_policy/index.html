@@ -1,0 +1,1577 @@
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Hugo 0.92.2" />
+    <meta name="description" content="Documentation for Hugo Learn Theme">
+<meta name="author" content="Mathieu Cornic">
+
+    <link rel="icon" href="/images/favicon.png" type="image/png">
+
+    <title>OCI 권한 설정 :: Documentation for Hugo Learn Theme</title>
+
+    
+    <link href="/css/nucleus.css?1656667970" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1656667970" rel="stylesheet">
+    <link href="/css/hybrid.css?1656667970" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1656667970" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1656667970" rel="stylesheet">
+    <link href="/css/auto-complete.css?1656667970" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1656667970" rel="stylesheet">
+    <link href="/css/theme.css?1656667970" rel="stylesheet">
+    <link href="/css/tabs.css?1656667970" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1656667970" rel="stylesheet">
+    
+    
+
+    <script src="/js/jquery-3.3.1.min.js?1656667970"></script>
+
+    <style>
+      :root #header + #content > #left > #rlblock_left{
+          display:none !important;
+      }
+      
+    </style>
+    
+  </head>
+  <body class="" data-url="/010.oci_env/oci_first_step/oci_basic_policy/">
+    <nav id="sidebar" class="">
+
+
+
+  <div id="header-wrapper">
+    <div id="header">
+      <div>
+
+<div style="display:inline;">
+<a id="logo" href='/'>
+		<img src='/images/oracle-badge.jpeg' width='44' /> </a>
+</div>
+
+<div style="float:right">
+<div style="font-weight:550;color:rgb(250, 250, 184);">Oracle cloud Infrastructure</div>
+<div style="font-weight:400;color:white;">오라클 클라우드 기초 가이드</span></a></div>
+</div>
+</div>
+    </div>
+    
+        <div class="searchbox">
+    <label for="search-by"><i class="fas fa-search"></i></label>
+    <input data-search-input id="search-by" type="search" placeholder="Search...">
+    <span data-search-clear=""><i class="fas fa-times"></i></span>
+</div>
+
+<script type="text/javascript" src="/js/lunr.min.js?1656667970"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1656667970"></script>
+<script type="text/javascript">
+    
+        var baseurl = "\/";
+    
+</script>
+<script type="text/javascript" src="/js/search.js?1656667970"></script>
+
+    
+  </div>
+  
+
+    <div class="highlightable">
+    <ul class="topics">
+
+        
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/000.oci101/" title="OCI 101 기초 가이드" class="dd-item
+        
+        
+        
+        ">
+      <a href="/000.oci101/">
+          <b>>> </b>OCI 101 기초 가이드
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/010.oci_env/" title="OCI 환경 구성" class="dd-item
+        parent
+        
+        
+        ">
+      <a href="/010.oci_env/">
+          <b>1. </b>OCI 환경 구성
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/010.oci_env/oci_account/" title="OCI 계정 생성" class="dd-item
+        
+        
+        
+        ">
+      <a href="/010.oci_env/oci_account/">
+          OCI 계정 생성
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/010.oci_env/oci_first_step/" title="OCI 첫걸음" class="dd-item
+        parent
+        
+        
+        ">
+      <a href="/010.oci_env/oci_first_step/">
+          OCI 첫걸음
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/010.oci_env/oci_first_step/oci_login/" title="OCI 콘솔 로그인" class="dd-item
+        
+        
+        
+        ">
+      <a href="/010.oci_env/oci_first_step/oci_login/">
+          OCI 콘솔 로그인
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/010.oci_env/oci_first_step/oci_user_mngt/" title="OCI 사용자 등록" class="dd-item
+        
+        
+        
+        ">
+      <a href="/010.oci_env/oci_first_step/oci_user_mngt/">
+          OCI 사용자 등록
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/010.oci_env/oci_first_step/oci_compartment/" title="OCI 컴파트먼트 만들기" class="dd-item
+        
+        
+        
+        ">
+      <a href="/010.oci_env/oci_first_step/oci_compartment/">
+          OCI 컴파트먼트 만들기
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/010.oci_env/oci_first_step/oci_vcn/" title="OCI VCN 만들기" class="dd-item
+        
+        
+        
+        ">
+      <a href="/010.oci_env/oci_first_step/oci_vcn/">
+          OCI VCN 만들기
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/010.oci_env/oci_first_step/oci_basic_policy/" title="OCI 권한 설정" class="dd-item
+        parent
+        active
+        
+        ">
+      <a href="/010.oci_env/oci_first_step/oci_basic_policy/">
+          OCI 권한 설정
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/010.oci_env/oci_first_step/oci_cli/" title="OCI CLI 설치" class="dd-item
+        
+        
+        
+        ">
+      <a href="/010.oci_env/oci_first_step/oci_cli/">
+          OCI CLI 설치
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/010.oci_env/oci_first_step/oci_upgrade/" title="OCI 계정 업그레이드/유료 등록" class="dd-item
+        
+        
+        
+        ">
+      <a href="/010.oci_env/oci_first_step/oci_upgrade/">
+          OCI 계정 업그레이드/유료 등록
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+      
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/020.oci_basic/" title="OCI 기초 &amp; 활용" class="dd-item
+        
+        
+        
+        ">
+      <a href="/020.oci_basic/">
+          <b>2. </b>OCI 기초 &amp; 활용
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/020.oci_basic/linux_vm/" title="Linux VM 프로비저닝" class="dd-item
+        
+        
+        
+        ">
+      <a href="/020.oci_basic/linux_vm/">
+          Linux VM 프로비저닝
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/020.oci_basic/window_vm/" title="윈도우 VM 프로비저닝" class="dd-item
+        
+        
+        
+        ">
+      <a href="/020.oci_basic/window_vm/">
+          윈도우 VM 프로비저닝
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/020.oci_basic/blockstorage/" title="Linux VM에 블록스토리지 연결" class="dd-item
+        
+        
+        
+        ">
+      <a href="/020.oci_basic/blockstorage/">
+          Linux VM에 블록스토리지 연결
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/020.oci_basic/vm_life_cycle/" title="Linux 인스턴스 라이브 사이클" class="dd-item
+        
+        
+        
+        ">
+      <a href="/020.oci_basic/vm_life_cycle/">
+          Linux 인스턴스 라이브 사이클
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/020.oci_basic/vm_fss/" title="Linux 인스턴스 파일 스토리 서비스 연결" class="dd-item
+        
+        
+        
+        ">
+      <a href="/020.oci_basic/vm_fss/">
+          Linux 인스턴스 파일 스토리 서비스 연결
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/020.oci_basic/object_storage/" title="Object Storatge" class="dd-item
+        
+        
+        
+        ">
+      <a href="/020.oci_basic/object_storage/">
+          Object Storatge
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/020.oci_basic/load_balancing/" title="Load Balancer 구성" class="dd-item
+        
+        
+        
+        ">
+      <a href="/020.oci_basic/load_balancing/">
+          Load Balancer 구성
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/020.oci_basic/vm_autoscaleout/" title="VM 자동 확장(Auto-scale-out)" class="dd-item
+        
+        
+        
+        ">
+      <a href="/020.oci_basic/vm_autoscaleout/">
+          VM 자동 확장(Auto-scale-out)
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/030.oci_store/" title="OCI 데이터저장소" class="dd-item
+        
+        
+        
+        ">
+      <a href="/030.oci_store/">
+          <b>3. </b>OCI 데이터저장소
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+
+        
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/030.oci_store/adb/" title="ADB(자울운영 데이터베이스)" class="dd-item ">
+        <a href="/030.oci_store/adb/">
+        ADB(자울운영 데이터베이스)
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/030.oci_store/dbcs/" title="DBCS(오라클 데이터베이스 서비스)" class="dd-item ">
+        <a href="/030.oci_store/dbcs/">
+        DBCS(오라클 데이터베이스 서비스)
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/030.oci_store/mds/" title="MDS(MySQL Database Service)" class="dd-item ">
+        <a href="/030.oci_store/mds/">
+        MDS(MySQL Database Service)
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/030.oci_store/nosql/" title="Oracle NoSQL Service" class="dd-item ">
+        <a href="/030.oci_store/nosql/">
+        Oracle NoSQL Service
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/030.oci_store/logging/" title="OCI Logging Service" class="dd-item ">
+        <a href="/030.oci_store/logging/">
+        OCI Logging Service
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/040.cloud_native/" title="OCI 클라우드 네이티브" class="dd-item
+        
+        
+        
+        ">
+      <a href="/040.cloud_native/">
+          <b>4. </b>OCI 클라우드 네이티브
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/050.data_processing/" title="OCI 데이터 처리" class="dd-item
+        
+        
+        
+        ">
+      <a href="/050.data_processing/">
+          <b>5. </b>OCI 데이터 처리
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/060.data_analytics/" title="OCI 데이터분석머신러닝" class="dd-item
+        
+        
+        
+        ">
+      <a href="/060.data_analytics/">
+          <b>6. </b>OCI 데이터분석머신러닝
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+          
+          
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/070.devops/" title="OCI devops" class="dd-item
+        
+        
+        
+        ">
+      <a href="/070.devops/">
+          <b>7. </b>OCI devops
+          
+      </a>
+      
+      
+    </li>
+  
+ 
+
+          
+        
+    </ul>
+    <hr/>
+    
+    
+      <section id="shortcuts">
+        <h4>&nbsp;&nbsp;관련 사이트</h4>
+        <ul>
+          
+              <li>
+                  <a class="padding" href="https://docs.oracle.com/en-us/iaas/Content/home.htm" target='_blank'><i class='fas fa-fw fa-book'></i> OCI 공식 문서 사이트</a>
+              </li>
+          
+              <li>
+                  <a class="padding" href="http://taewan.kim" target='_blank'><i class='fab fa-fw fa-blogger'></i> 블로그: Taewan.kim</a>
+              </li>
+          
+              <li>
+                  <a class="padding" href="https://www.youtube.com/channel/UCo32ifcqG3i56nIjS2YtRIw" target='_blank'><i class='fab fa-fw fa-youtube'></i> Σ민수아빠</a>
+              </li>
+          
+              <li>
+                  <a class="padding" href="https://www.facebook.com/groups/koreaoraclecloud" target='_blank'><i class='fab fa-fw fa-facebook'></i> 오라클 클라우드 사용자 그룹</a>
+              </li>
+          
+              <li>
+                  <a class="padding" href="https://github.com/taewanme" target='_blank'><i class='fab fa-fw fa-github'></i> GitHub repo</a>
+              </li>
+          
+              <li>
+                  <a class="padding" href="https://learn.netlify.app/en/" target='_blank'><i class='fab fa-fw fa-github'></i> 스타일 레퍼런스</a>
+              </li>
+          
+        </ul>
+      </section>
+    
+
+    
+    <section id="footer">
+      
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+    </section>
+  </div>
+</nav>
+
+
+
+        <section id="body">
+        <div id="overlay"></div>
+        <div class="padding highlightable">
+              
+              <div>
+                <div id="top-bar">
+                
+                
+                <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <span id="sidebar-toggle-span">
+                        <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                          <i class="fas fa-bars"></i>
+                        </a>
+                    </span>
+                  
+                  <span id="toc-menu"><i class="fas fa-list-alt"></i></span>
+                  
+                  <span class="links">
+                 
+                 
+                    
+          
+          
+            
+            
+          
+          
+            
+            
+          
+          
+            
+            
+          
+          
+            <a href='/'>OCI-101</a> > <a href='/010.oci_env/'>OCI 환경 구성</a> > <a href='/010.oci_env/oci_first_step/'>OCI 첫걸음</a> > OCI 권한 설정
+          
+        
+          
+        
+          
+        
+          
+        
+                 
+                  </span>
+                </div>
+                
+                    <div class="progress">
+    <div class="wrapper">
+<nav id="TableOfContents"></nav>
+    </div>
+</div>
+
+                
+              </div>
+            </div>
+            
+        <div id="head-tags">
+        
+        </div>
+        
+        <div id="body-inner">
+          
+            <h1>
+              
+              OCI 권한 설정
+            </h1>
+          
+
+        
+
+
+
+	
+
+
+
+
+<footer class=" footline" >
+	
+</footer>
+
+        
+        </div>
+        
+
+      </div>
+
+    <div id="navigation">
+        
+        
+
+        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+
+        
+
+
+	 
+	 
+		
+			<a class="nav nav-prev" href="/010.oci_env/oci_first_step/oci_vcn/" title="OCI VCN 만들기"> <i class="fa fa-chevron-left"></i></a>
+		
+		
+			<a class="nav nav-next" href="/010.oci_env/oci_first_step/oci_cli/" title="OCI CLI 설치" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+		
+	
+    </div>
+
+    </section>
+
+    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
+      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+    </div>
+    <script src="/js/clipboard.min.js?1656667970"></script>
+    <script src="/js/perfect-scrollbar.min.js?1656667970"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1656667970"></script>
+    <script src="/js/jquery.sticky.js?1656667970"></script>
+    <script src="/js/featherlight.min.js?1656667970"></script>
+    <script src="/js/highlight.pack.js?1656667970"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="/js/modernizr.custom-3.6.0.js?1656667970"></script>
+    <script src="/js/learn.js?1656667970"></script>
+    <script src="/js/hugo-learn.js?1656667970"></script>
+    
+        
+            <script src="https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"></script>
+        
+        <script>
+            mermaid.initialize({ startOnLoad: true });
+        </script>
+    
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-105947713-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  </body>
+</html>

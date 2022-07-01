@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OCI 데이터저장소 on Documentation for Hugo Learn Theme</title>
+    <link>/030.oci_store/</link>
+    <description>Recent content in OCI 데이터저장소 on Documentation for Hugo Learn Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="/030.oci_store/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ADB(자울운영 데이터베이스)</title>
+      <link>/030.oci_store/adb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030.oci_store/adb/</guid>
+      <description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
+Create your project Hugo provides a new command to create a new website.
+hugo new site &amp;lt;new_project&amp;gt; Install the theme Install the Hugo-theme-learn theme by following this documentation
+This theme&amp;rsquo;s repository is: https://github.com/matcornic/hugo-theme-learn.git
+Alternatively, you can download the theme as .</description>
+    </item>
+    
+    <item>
+      <title>DBCS(오라클 데이터베이스 서비스)</title>
+      <link>/030.oci_store/dbcs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030.oci_store/dbcs/</guid>
+      <description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
+Create your project Hugo provides a new command to create a new website.
+hugo new site &amp;lt;new_project&amp;gt; Install the theme Install the Hugo-theme-learn theme by following this documentation
+This theme&amp;rsquo;s repository is: https://github.com/matcornic/hugo-theme-learn.git
+Alternatively, you can download the theme as .</description>
+    </item>
+    
+    <item>
+      <title>MDS(MySQL Database Service)</title>
+      <link>/030.oci_store/mds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030.oci_store/mds/</guid>
+      <description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
+Create your project Hugo provides a new command to create a new website.
+hugo new site &amp;lt;new_project&amp;gt; Install the theme Install the Hugo-theme-learn theme by following this documentation
+This theme&amp;rsquo;s repository is: https://github.com/matcornic/hugo-theme-learn.git
+Alternatively, you can download the theme as .</description>
+    </item>
+    
+    <item>
+      <title>Oracle NoSQL Service</title>
+      <link>/030.oci_store/nosql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030.oci_store/nosql/</guid>
+      <description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
+Create your project Hugo provides a new command to create a new website.
+hugo new site &amp;lt;new_project&amp;gt; Install the theme Install the Hugo-theme-learn theme by following this documentation
+This theme&amp;rsquo;s repository is: https://github.com/matcornic/hugo-theme-learn.git
+Alternatively, you can download the theme as .</description>
+    </item>
+    
+    <item>
+      <title>OCI Logging Service</title>
+      <link>/030.oci_store/logging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030.oci_store/logging/</guid>
+      <description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
+Create your project Hugo provides a new command to create a new website.
+hugo new site &amp;lt;new_project&amp;gt; Install the theme Install the Hugo-theme-learn theme by following this documentation
+This theme&amp;rsquo;s repository is: https://github.com/matcornic/hugo-theme-learn.git
+Alternatively, you can download the theme as .</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OCI 클라우드 네이티브 on Documentation for Hugo Learn Theme</title>
+    <link>/040.cloud_native/</link>
+    <description>Recent content in OCI 클라우드 네이티브 on Documentation for Hugo Learn Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="/040.cloud_native/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
