@@ -25,7 +25,7 @@
 	"title": "OCI 기본 개념",
 	"tags": ["OCI", "기본 용어", "기초 개념", "오라클 클라우드"],
 	"description": "",
-	"content": " OCI 101 클래스를 시작하기 앞서 OCI의 주요 용어를 정리합니다. 오라클 클라우드 브랜드 명이 변경된 흐름을 소개하고, 오라클 클라우드에서 주로 사용하는 용어를 정리합니다. 이와 함께 주요 기술 구성에 대하여 소개합니다. OCI 101 클래스를 진행함에 있어, 자주 등장하는 용어를 사전에 정리하여 앞으로 발생할 수 있는 혼동을 최소화하기 위한 오라클 클라우드 기초 영상입니다.\n 이번 영상에서는 다음과 같은 OCI 용어를 정리합니다.\n OCI OPC Tenancy Compartment Availability Domain Fault Domain OCI Console VCN Cloud Shell Region Azure Interconnect    다음 링크를 클릭하시면 Youtube 사이트에서 관련 영상을 시청하실 수 있습니다.  [OCI101-02] 오라클 클라우드 기본 개념 \u0026amp; 용어 정리[↗NW]       영상은 2022년 6월 15일 녹화됐습니다. 시점에 따라 화면 UI달라 질 수 있습니다.\n 추가 보충 자료 Azure Interconnect에 대해 궁금하신 분들은 다음 영상을 참고하시기 바랍니다.\n 다음 링크를 클릭하시면 Youtube 사이트에서 관련 영상을 시청하실 수 있습니다.\n  [OCI101-02] 오라클 클라우드 기본 개념 \u0026amp; 용어 정리[↗NW]    "
+	"content": " OCI 101 클래스를 시작하기 앞서 OCI의 주요 용어를 정리합니다. 오라클 클라우드 브랜드 명이 변경된 흐름을 소개하고, 오라클 클라우드에서 주로 사용하는 용어를 정리합니다. 이와 함께 주요 기술 구성에 대하여 소개합니다. OCI 101 클래스를 진행함에 있어, 자주 등장하는 용어를 사전에 정리하여 앞으로 발생할 수 있는 혼동을 최소화하기 위한 오라클 클라우드 기초 영상입니다.\n 이번 영상에서는 다음과 같은 OCI 용어를 정리합니다.\n OCI OPC Tenancy Compartment Availability Domain Fault Domain OCI Console VCN Cloud Shell Region Azure Interconnect    다음 링크를 클릭하시면 Youtube 사이트에서 관련 영상을 시청하실 수 있습니다.  [OCI101-02] 오라클 클라우드 기본 개념 \u0026amp; 용어 정리[↗NW]       영상은 2022년 6월 15일 녹화됐습니다. 시점에 따라 화면 UI달라 질 수 있습니다.\n 참고 자료 Azure Interconnect에 대해 궁금하신 분들은 다음 영상을 참고하시기 바랍니다.\n 다음 링크를 클릭하시면 Youtube 사이트에서 관련 영상을 시청하실 수 있습니다.\n  [OCI101-02] 오라클 클라우드 기본 개념 \u0026amp; 용어 정리[↗NW]    "
 },
 {
 	"uri": "/010.oci_env/oci_first_step/oci_login/",
@@ -37,9 +37,9 @@
 {
 	"uri": "/010.oci_env/",
 	"title": "OCI 환경 구성",
-	"tags": ["tutorial", "theme"],
+	"tags": ["OCI", "오라클 클라우드", "환경구성"],
 	"description": "",
-	"content": "_OCI 환경 구성_오라클 클라우드를 사용하기 위해서는 우선 OCI 계정을\nDiscover what this Hugo theme is all about and the core-concepts behind it.\nBasics "
+	"content": " \u0026ldquo;OCI 환경 구성\u0026quot;에서는 OCI 101 클래스를 진행하기 위해서 필요한 필수 개념과 사전 준비할 부분을 다룹니다.\n \u0026ldquo;OCI 환경 구성\u0026quot;에서는 다음과 같은 내용을 다룹니다.\n OCI 계정 생성 OCI 기본 개념 OCI 기본 설정  사용자 등록 기본 자원 구성 기본 권한 설정    본격적인 실습을 위해서는 \u0026ldquo;OCI 환경 구성\u0026quot;은 필수 코스입니다. 이미 OCI 기본 개념과 환경 구성이 익숙하신 분들은 \u0026ldquo;OCI 환경 구성\u0026quot;를 넘어가셔도 좋습니다.\n문서 구성  OCI 기본 개념     OCI 계정 생성     OCI 첫걸음    OCI 콘솔 사용법   OCI 사용자 등록   OCI 컴파트먼트 만들기   OCI VCN 만들기   OCI 권한 설정   OCI CLI 설치   OCI 계정 업그레이드/유료 등록    "
 },
 {
 	"uri": "/030.oci_store/dbcs/",
@@ -100,9 +100,9 @@
 {
 	"uri": "/010.oci_env/oci_first_step/",
 	"title": "OCI 첫걸음",
-	"tags": [],
+	"tags": ["OCI", "환경구성", "기초 개념", "오라클 클라우드"],
 	"description": "",
-	"content": "//업데이트 예정\n"
+	"content": " OCI 101 클래스 실습을 위해서 기본 환경을 구성화는 과정으로 구성됩니다.\n 문서 구성  OCI 콘솔 사용법     OCI 사용자 등록     OCI 컴파트먼트 만들기     OCI VCN 만들기     OCI 권한 설정     OCI CLI 설치     OCI 계정 업그레이드/유료 등록     "
 },
 {
 	"uri": "/010.oci_env/oci_first_step/oci_compartment/",
@@ -324,6 +324,13 @@
 {
 	"uri": "/tags/%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%9D%B4%EB%93%9C/",
 	"title": "입문 가이드",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/tags/%ED%99%98%EA%B2%BD%EA%B5%AC%EC%84%B1/",
+	"title": "환경구성",
 	"tags": [],
 	"description": "",
 	"content": ""

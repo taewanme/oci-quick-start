@@ -38,6 +38,18 @@ OCI 101 클래스 구성 OCI 101을 구성하는 각 문서는 1개 이상의 �
     </item>
     
     <item>
+      <title>OCI 환경 구성</title>
+      <link>/010.oci_env/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/010.oci_env/</guid>
+      <description> &amp;ldquo;OCI 환경 구성&amp;quot;에서는 OCI 101 클래스를 진행하기 위해서 필요한 필수 개념과 사전 준비할 부분을 다룹니다.
+ &amp;ldquo;OCI 환경 구성&amp;quot;에서는 다음과 같은 내용을 다룹니다.
+ OCI 계정 생성 OCI 기본 개념 OCI 기본 설정  사용자 등록 기본 자원 구성 기본 권한 설정    본격적인 실습을 위해서는 &amp;ldquo;OCI 환경 구성&amp;quot;은 필수 코스입니다. 이미 OCI 기본 개념과 환경 구성이 익숙하신 분들은 &amp;ldquo;OCI 환경 구성&amp;quot;를 넘어가셔도 좋습니다.
+문서 구성  OCI 기본 개념     OCI 계정 생성     OCI 첫걸음    OCI 콘솔 사용법   OCI 사용자 등록   OCI 컴파트먼트 만들기   OCI VCN 만들기   OCI 권한 설정   OCI CLI 설치   OCI 계정 업그레이드/유료 등록    </description>
+    </item>
+    
+    <item>
       <title>OCI 계정 생성</title>
       <link>/010.oci_env/oci_account/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -45,6 +57,16 @@ OCI 101 클래스 구성 OCI 101을 구성하는 각 문서는 1개 이상의 �
       <guid>/010.oci_env/oci_account/</guid>
       <description>OCI 101 클래스 실습을 진행하기 위해서 필요한 OCI Free Trial 계정 절차를 소개하는 영상입니다. 이번 영상을 통해서 OCI 무료 계정을 등록하는 절차를 확인할 수 있습니다.
    다음 링크를 클릭하시면 Youtube 사이트에서 관련 영상을 시청하실 수 있습니다.  [OCI101-01] 오라클 클라우드 무료 계정(Free Trial) 등록[↗NW]        OCI 무료 계정 등록 URL: https://www.oracle.com/kr/cloud/free[↗NW]  영상은 2022년 6월 13일 녹화됐습니다. 시점에 따라 화면 UI가 달라 질 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>OCI 첫걸음</title>
+      <link>/010.oci_env/oci_first_step/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/010.oci_env/oci_first_step/</guid>
+      <description> OCI 101 클래스 실습을 위해서 기본 환경을 구성화는 과정으로 구성됩니다.
+ 문서 구성  OCI 콘솔 사용법     OCI 사용자 등록     OCI 컴파트먼트 만들기     OCI VCN 만들기     OCI 권한 설정     OCI CLI 설치     OCI 계정 업그레이드/유료 등록     </description>
     </item>
     
   </channel>

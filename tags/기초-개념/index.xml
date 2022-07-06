@@ -17,5 +17,15 @@
  OCI OPC Tenancy Compartment Availability Domain Fault Domain OCI Console VCN Cloud Shell Region Azure Interconnect    다음 링크를 클릭하시면 Youtube 사이트에서 관련 영상을 시청하실 수 있습니다.</description>
     </item>
     
+    <item>
+      <title>OCI 첫걸음</title>
+      <link>/010.oci_env/oci_first_step/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/010.oci_env/oci_first_step/</guid>
+      <description> OCI 101 클래스 실습을 위해서 기본 환경을 구성화는 과정으로 구성됩니다.
+ 문서 구성  OCI 콘솔 사용법     OCI 사용자 등록     OCI 컴파트먼트 만들기     OCI VCN 만들기     OCI 권한 설정     OCI CLI 설치     OCI 계정 업그레이드/유료 등록     </description>
+    </item>
+    
   </channel>
 </rss>
