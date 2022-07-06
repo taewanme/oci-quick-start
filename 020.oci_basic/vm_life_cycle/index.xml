@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linux 인스턴스 라이브 사이클 on Documentation for Hugo Learn Theme</title>
+    <title>Linux 인스턴스 라이브 사이클 on OCI 101 클래스</title>
     <link>/020.oci_basic/vm_life_cycle/</link>
-    <description>Recent content in Linux 인스턴스 라이브 사이클 on Documentation for Hugo Learn Theme</description>
+    <description>Recent content in Linux 인스턴스 라이브 사이클 on OCI 101 클래스</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language><atom:link href="/020.oci_basic/vm_life_cycle/index.xml" rel="self" type="application/rss+xml" />
   </channel>

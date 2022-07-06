@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>오라클 클라우드 on OCI 101 클래스</title>
+    <link>/tags/%EC%98%A4%EB%9D%BC%ED%81%B4-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C/</link>
+    <description>Recent content in 오라클 클라우드 on OCI 101 클래스</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="/tags/%EC%98%A4%EB%9D%BC%ED%81%B4-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OCI 기본 개념</title>
+      <link>/010.oci_env/oci_basic_concept/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/010.oci_env/oci_basic_concept/</guid>
+      <description>OCI 101 클래스를 시작하기 앞서 OCI의 주요 용어를 정리합니다. 오라클 클라우드 브랜드 명이 변경된 흐름을 소개하고, 오라클 클라우드에서 주로 사용하는 용어를 정리합니다. 이와 함께 주요 기술 구성에 대하여 소개합니다. OCI 101 클래스를 진행함에 있어, 자주 등장하는 용어를 사전에 정리하여 앞으로 발생할 수 있는 혼동을 최소화하기 위한 오라클 클라우드 기초 영상입니다.
+ 이번 영상에서는 다음과 같은 OCI 용어를 정리합니다.
+ OCI OPC Tenancy Compartment Availability Domain Fault Domain OCI Console VCN Cloud Shell Region Azure Interconnect    다음 링크를 클릭하시면 Youtube 사이트에서 관련 영상을 시청하실 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>OCI 콘솔 사용법</title>
+      <link>/010.oci_env/oci_first_step/oci_login/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/010.oci_env/oci_first_step/oci_login/</guid>
+      <description>이번 강좌에서는 OCI를 관리하는 웹 사이트인 OCI Console을 소개합니다. OCI Console의 주요 메뉴과 화면 구성, 주요 기능을 정리합니다. 이 강좌에서는 다음과 같은 내용을 다룹니다.
+  OCI Console 로그인 OCI Console 로그아웃 OCI Console 로그인 패스워드 초기화 OCI Console 사용자 프로파일 확인 OCI 리전 정보 확인 OCI Console 사용자 설정 Console 메뉴이동 OCI Search - OCI 자원 쿼리 Cloud Shell OCI Console 언어 변경 OCI Notification 메인 페이지 구성  서비스 링크 (Service Links) 빠른 시작 (Quickstarts) 자원 시작 (Launch Resources) 탐색 시작 (Start Exploring)   OCI Console 대시보드    다음 링크를 클릭하시면 Youtube 사이트에서 관련 영상을 시청하실 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>OCI 계정 생성</title>
+      <link>/010.oci_env/oci_account/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/010.oci_env/oci_account/</guid>
+      <description>OCI 101 클래스 실습을 진행하기 위해서 필요한 OCI Free Trial 계정 절차를 소개하는 영상입니다. 이번 영상을 통해서 OCI 무료 계정을 등록하는 절차를 확인할 수 있습니다.
+   다음 링크를 클릭하시면 Youtube 사이트에서 관련 영상을 시청하실 수 있습니다.  [OCI101-01] 오라클 클라우드 무료 계정(Free Trial) 등록[↗NW]        OCI 무료 계정 등록 URL: https://www.oracle.com/kr/cloud/free[↗NW]  영상은 2022년 6월 13일 녹화됐습니다. 시점에 따라 화면 UI가 달라 질 수 있습니다.</description>
+    </item>
+    
+  </channel>
+</rss>

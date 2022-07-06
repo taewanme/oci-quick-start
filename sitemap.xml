@@ -8,15 +8,15 @@
   </url><url>
     <loc>/020.oci_basic/linux_vm/</loc>
   </url><url>
-    <loc>/010.oci_env/oci_account/</loc>
-  </url><url>
-    <loc>/010.oci_env/oci_first_step/</loc>
+    <loc>/010.oci_env/oci_basic_concept/</loc>
   </url><url>
     <loc>/010.oci_env/oci_first_step/oci_login/</loc>
   </url><url>
     <loc>/010.oci_env/</loc>
   </url><url>
     <loc>/030.oci_store/dbcs/</loc>
+  </url><url>
+    <loc>/010.oci_env/oci_account/</loc>
   </url><url>
     <loc>/020.oci_basic/</loc>
   </url><url>
@@ -29,6 +29,8 @@
     <loc>/030.oci_store/mds/</loc>
   </url><url>
     <loc>/030.oci_store/</loc>
+  </url><url>
+    <loc>/010.oci_env/oci_first_step/</loc>
   </url><url>
     <loc>/010.oci_env/oci_first_step/oci_compartment/</loc>
   </url><url>
@@ -66,13 +68,31 @@
   </url><url>
     <loc>/tags/oci/</loc>
   </url><url>
+    <loc>/tags/oci-always-free/</loc>
+  </url><url>
+    <loc>/tags/oci-console/</loc>
+  </url><url>
+    <loc>/tags/oci-free-trial/</loc>
+  </url><url>
+    <loc>/tags/oci-web-ui/</loc>
+  </url><url>
     <loc>/</loc>
+  </url><url>
+    <loc>/tags/oracle-cloud/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url><url>
     <loc>/tags/theme/</loc>
   </url><url>
     <loc>/tags/tutorial/</loc>
+  </url><url>
+    <loc>/tags/%EA%B3%84%EC%A0%95-%EB%93%B1%EB%A1%9D/</loc>
+  </url><url>
+    <loc>/tags/%EA%B8%B0%EB%B3%B8-%EC%9A%A9%EC%96%B4/</loc>
+  </url><url>
+    <loc>/tags/%EA%B8%B0%EC%B4%88-%EA%B0%9C%EB%85%90/</loc>
+  </url><url>
+    <loc>/tags/%EC%98%A4%EB%9D%BC%ED%81%B4-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C/</loc>
   </url><url>
     <loc>/tags/%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%9D%B4%EB%93%9C/</loc>
   </url>

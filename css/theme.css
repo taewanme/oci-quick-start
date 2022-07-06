@@ -471,11 +471,11 @@ h1 {
     font-weight: 600;
 }
 blockquote {
-    border-left: 10px solid #F0F2F4;
+    border-left: 10px solid #8b0801;
 }
 blockquote p {
-    font-size: 1.1rem;
-    color: #999;
+    #font-size: 1.1rem;
+    #color: #999;
 }
 blockquote cite {
     display: block;
