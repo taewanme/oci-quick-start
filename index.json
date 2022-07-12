@@ -67,7 +67,7 @@
 	"title": "OCI 사용자 등록",
 	"tags": [],
 	"description": "",
-	"content": " OCI 101 클래스 실습을 준비하기 위한 기초 환경 설정을 진행합니다. 기초 환경 설정 첫 번째 실습으로 OCI 유저 3개와 OCI 그룹 2개를 만들고, 3개 유저를 Administrators, Developers 그리고 Operators 그룹을 할당하는 설정을 진행합니다.\n  다음 링크를 클릭하시면 Youtube 사이트에서 관련 영상을 시청하실 수 있습니다.  [OCI101-02] 오라클 클라우드 기본 개념 \u0026amp; 용어 정리[↗NW]      목표 이번 영상을 통해서 다음과 같은 요소를 확인할 수 있습니다.\n OCI IAM 서비스의 핵심 구성 요소인 IAM User와 IAM Group OCI 사용자 등록 방법  사전 준비 및 확인 이번 강좌를 실습하기 위해서는 OCI 계정이 필요합니다. OCI 계정이 없으신 분들은, 아래 링크의 영상을 참조하시고 계정을 생성하시기 바랍니다.\n  [OCI101-01] 오라클 클라우드 무료 계정(Free Trial) 등록 영상 URL: https://www.youtube.com/watch?v=lf38Q8NysEc[↗NW]  사용자 등록 기초 정보 OCI 101 클래스는\n   OCI 사용자 ID OCI 사용자 패스워드 사용자 메일 소속 OCI 그룹 설명     admin Welcome123456! okcode@gmail.com Administrators 클라우드 계정 관리자   dev Welcome123456! okcode@gmail.com Developers 개발자 ID   operator Welcome123456! okcode@gmail.com Operators 시스템 운영자 ID    "
+	"content": " OCI 101 클래스 실습을 준비하기 위한 기초 환경 설정을 진행합니다. 기초 환경 설정 첫 번째 실습으로 OCI 유저 3개와 OCI 그룹 2개를 만들고, 3개 유저를 Administrators, Developers 그리고 Operators 그룹을 할당하는 설정을 진행합니다.\n  다음 링크를 클릭하시면 Youtube 사이트에서 관련 영상을 시청하실 수 있습니다.  [OCI101-102] OCI 사용자 등록\u0026amp;관리[↗NW]      목표 이번 영상을 통해서 다음과 같은 요소를 확인할 수 있습니다.\n OCI IAM 서비스의 핵심 구성 요소인 IAM User와 IAM Group OCI 사용자 등록 방법  사전 준비 및 확인 이번 강좌를 실습하기 위해서는 OCI 계정이 필요합니다. OCI 계정이 없으신 분들은, 아래 링크의 영상을 참조하시고 계정을 생성하시기 바랍니다.\n  [OCI101-01] 오라클 클라우드 무료 계정(Free Trial) 등록 영상 URL: https://www.youtube.com/watch?v=lf38Q8NysEc[↗NW]  사용자 등록 기초 정보 OCI 101 클래스는\n   OCI 사용자 ID OCI 사용자 패스워드 사용자 메일 소속 OCI 그룹 설명     admin Welcome123456! okcode@gmail.com Administrators 클라우드 계정 관리자   dev Welcome123456! okcode@gmail.com Developers 개발자 ID   operator Welcome123456! okcode@gmail.com Operators 시스템 운영자 ID    "
 },
 {
 	"uri": "/020.oci_basic/window_vm/",
