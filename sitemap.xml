@@ -30,13 +30,13 @@
   </url><url>
     <loc>/030.oci_store/</loc>
   </url><url>
-    <loc>/010.oci_env/oci_first_step/</loc>
-  </url><url>
     <loc>/010.oci_env/oci_first_step/oci_compartment/</loc>
   </url><url>
     <loc>/020.oci_basic/vm_life_cycle/</loc>
   </url><url>
-    <loc>/010.oci_env/oci_first_step/oci_vcn/</loc>
+    <loc>/010.oci_env/oci_first_step/oci_basic_policy/</loc>
+  </url><url>
+    <loc>/010.oci_env/oci_first_step/</loc>
   </url><url>
     <loc>/040.cloud_native/</loc>
   </url><url>
@@ -46,7 +46,7 @@
   </url><url>
     <loc>/030.oci_store/logging/</loc>
   </url><url>
-    <loc>/010.oci_env/oci_first_step/oci_basic_policy/</loc>
+    <loc>/010.oci_env/oci_first_step/oci_vcn/</loc>
   </url><url>
     <loc>/050.data_processing/</loc>
   </url><url>

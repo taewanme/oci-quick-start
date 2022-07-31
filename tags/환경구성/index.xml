@@ -15,7 +15,7 @@
       <description> &amp;ldquo;OCI 환경 구성&amp;quot;에서는 OCI 101 클래스를 진행하기 위해서 필요한 필수 개념과 사전 준비할 부분을 다룹니다.
  &amp;ldquo;OCI 환경 구성&amp;quot;에서는 다음과 같은 내용을 다룹니다.
  OCI 계정 생성 OCI 기본 개념 OCI 기본 설정  사용자 등록 기본 자원 구성 기본 권한 설정    본격적인 실습을 위해서는 &amp;ldquo;OCI 환경 구성&amp;quot;은 필수 코스입니다. 이미 OCI 기본 개념과 환경 구성이 익숙하신 분들은 &amp;ldquo;OCI 환경 구성&amp;quot;를 넘어가셔도 좋습니다.
-문서 구성  OCI 기본 개념     OCI 계정 생성     OCI 첫걸음    OCI 콘솔 사용법   OCI 사용자 등록   OCI 컴파트먼트 만들기   OCI VCN 만들기   OCI 권한 설정   OCI CLI 설치   OCI 계정 업그레이드/유료 등록    </description>
+문서 구성  OCI 기본 개념     OCI 계정 생성     OCI 첫걸음    OCI 콘솔 사용법   OCI 사용자 등록   OCI 컴파트먼트 만들기   OCI 권한 설정   OCI VCN 만들기   OCI CLI 설치   OCI 계정 업그레이드/유료 등록    </description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@
       
       <guid>/010.oci_env/oci_first_step/</guid>
       <description> OCI 101 클래스 실습을 위해서 기본 환경을 구성화는 과정으로 구성됩니다.
- 문서 구성  OCI 콘솔 사용법     OCI 사용자 등록     OCI 컴파트먼트 만들기     OCI VCN 만들기     OCI 권한 설정     OCI CLI 설치     OCI 계정 업그레이드/유료 등록     </description>
+ 문서 구성  OCI 콘솔 사용법     OCI 사용자 등록     OCI 컴파트먼트 만들기     OCI 권한 설정     OCI VCN 만들기     OCI CLI 설치     OCI 계정 업그레이드/유료 등록     </description>
     </item>
     
   </channel>
