@@ -33,8 +33,9 @@ OCI 101 클래스 구성 OCI 101을 구성하는 각 문서는 1개 이상의 �
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/010.oci_env/oci_first_step/oci_login/</guid>
-      <description>이번 강좌에서는 OCI를 관리하는 웹 사이트인 OCI Console을 소개합니다. OCI Console의 주요 메뉴과 화면 구성, 주요 기능을 정리합니다. 이 강좌에서는 다음과 같은 내용을 다룹니다.
-  OCI Console 로그인 OCI Console 로그아웃 OCI Console 로그인 패스워드 초기화 OCI Console 사용자 프로파일 확인 OCI 리전 정보 확인 OCI Console 사용자 설정 Console 메뉴이동 OCI Search - OCI 자원 쿼리 Cloud Shell OCI Console 언어 변경 OCI Notification 메인 페이지 구성  서비스 링크 (Service Links) 빠른 시작 (Quickstarts) 자원 시작 (Launch Resources) 탐색 시작 (Start Exploring)   OCI Console 대시보드    다음 링크를 클릭하시면 Youtube 사이트에서 관련 영상을 시청하실 수 있습니다.</description>
+      <description>이번 강좌에서는 OCI를 관리하는 웹 사이트인 OCI Console을 소개합니다. OCI Console의 주요 메뉴과 화면 구성, 주요 기능을 정리합니다.
+   다음 링크를 클릭하시면 Youtube 사이트에서 관련 영상을 시청하실 수 있습니다.  [OCI101-101] OCI 콘솔 사용법[↗NW]      영상 구성 이 강좌에서는 다음과 같은 내용을 다룹니다.
+ OCI Console 로그인 OCI Console 로그아웃 OCI Console 로그인 패스워드 초기화 OCI Console 사용자 프로파일 확인 OCI 리전 정보 확인 OCI Console 사용자 설정 Console 메뉴이동 OCI Search - OCI 자원 쿼리 Cloud Shell OCI Console 언어 변경 OCI Notification 메인 페이지 구성  서비스 링크 (Service Links) 빠른 시작 (Quickstarts) 자원 시작 (Launch Resources) 탐색 시작 (Start Exploring)   OCI Console 대시보드  사전 준비 사항 이번 강좌를 실습하기 위해서는 OCI 계정이 필요합니다.</description>
     </item>
     
     <item>
